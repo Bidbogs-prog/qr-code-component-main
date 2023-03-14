@@ -12,11 +12,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 844px;
+    flex-direction: column;
    
     
 }
 
-div{
+.centerCard{
     background-color: white;
     display: flex;
     flex-direction: column;
